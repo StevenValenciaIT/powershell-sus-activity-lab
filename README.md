@@ -58,6 +58,8 @@ This mimics an attacker downloading and executing a remote script using PowerShe
 
 ---
 
+## Powershell to Wazuh Flow
+![Poweshell to Wazuh Flow](powershell.png)
 ## Key Takeaways
 PowerShell is a powerful tool often abused in attacks.
 
